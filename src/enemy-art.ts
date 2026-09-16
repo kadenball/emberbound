@@ -1,3 +1,4 @@
+/// <reference types="vite/client" />
 import {atlasBounds,drawAtlas,type Bounds} from './atlas-bounds';
 import type {Actor} from './engine';
 import type {PlushPose} from './plush';
@@ -9,7 +10,7 @@ const species:Partial<Record<EnemyKind,[number,number,number]>>={raider:[0,0,104
 let loading:Promise<void>|undefined;
 /** Bounds are measured from alpha once, never from combat state or RNG. */
 export function loadEnemyArt(){return loading??=Promise.all(['melee','ranged'].map(async(name,index)=>{
- const image=new Image();image.src=`/characters/enemies-${name}.png`;
+ const image=new Image();image.src=`${import.meta.env.BASE_URL}characters/enemies-${name}.png`;
  try{await image.decode();const bounds=atlasBounds(image);
  const cells:Cell[][]=[];
  for(let row=0;row<4;row++){cells[row]=[];for(let col=0;col<4;col++){

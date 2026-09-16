@@ -1,3 +1,4 @@
+/// <reference types="vite/client" />
 import {atlasBounds,drawAtlas,type Bounds} from './atlas-bounds';
 import type { Actor } from './engine';
 import type { HeroId, WeaponId } from './content';
@@ -49,7 +50,7 @@ let loading: Promise<void> | undefined;
 export function loadHeroArt(): Promise<void> {
   return loading ??= Promise.all([...Object.entries(atlases),...Object.entries(attacks)].map(async ([id, atlas]) => {
     const img = new Image();
-    img.src = `/characters/${atlas.file}.png`;
+    img.src = `${import.meta.env.BASE_URL}characters/${atlas.file}.png`;
     try {
       await img.decode();
       if(img.naturalWidth===1536 && img.naturalHeight===1024){

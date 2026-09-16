@@ -44,7 +44,7 @@ let returnScreen = 'home', partner: HeroId | undefined, practice = false;
 const hero = () => HEROES.find(h => h.id === save.hero)!;
 const level = () => levelForXp(save.xp);
 const persist = () => { void writeSave(save).catch(() => toast('Could not save progress. Check available device storage.')); };
-const emblem = '<img src="/icon.svg" alt="" width="34" height="34" />';
+const emblem = `<img src="${import.meta.env.BASE_URL}icon.svg" alt="" width="34" height="34" />`;
 const arrow = '<span aria-hidden="true">↗</span>';
 let toastTimer: ReturnType<typeof setTimeout>;
 function toast(message: string) { const el = document.querySelector<HTMLElement>('#toast')!; el.textContent = message; el.classList.add('show'); clearTimeout(toastTimer); toastTimer = setTimeout(() => el.classList.remove('show'), 3500); }

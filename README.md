@@ -8,6 +8,10 @@ An original, offline fantasy beat ’em up for Android, iOS, and the browser. Gu
 
 ## Play
 
+[Play the browser prototype](https://brightmoot.com/media/emberbound/playtest.html)—no install or account required. Try the opening encounter, then share one confusing moment on Brightmoot. Posting feedback requires signing in.
+
+To run it locally:
+
 ```bash
 npm ci
 npm run dev

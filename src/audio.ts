@@ -1,3 +1,4 @@
+/// <reference types="vite/client" />
 import { SCENE_GAIN, cueFor, type ScoreScene } from './score-scene';
 import { CHAPTER_MUSIC } from './soundtrack';
 import type { GameEvent } from './engine';
@@ -70,7 +71,7 @@ export class Sound {
       for(const track of [this.menuTrack,this.chapterTrack])c.createMediaElementSource(track).connect(this.bedGain);
       c.createMediaElementSource(this.cueTrack).connect(this.cueGain);
       // Assign media only after routing: preloaded audio can stall in WebKit.
-      this.menuTrack.src='/audio/menu-theme.mp3';
+      this.menuTrack.src=import.meta.env.BASE_URL+'audio/menu-theme.mp3';
     }
     this.userUnlocked=true;
     if (this.context.state === 'suspended' || this.context.state === 'interrupted') void this.context.resume().catch(() => {});
@@ -158,12 +159,12 @@ export class Sound {
   update(_dt:number,scene:ScoreScene='menu',stage=0) {
     let changed=false;
     const playing=scene!=='menu',chapterChanged=playing&&this.chapter!==stage;
-    if(chapterChanged){this.chapter=stage;this.chapterTrack.src=CHAPTER_MUSIC[stage].file;this.chapterTrack.dataset.chapter=String(stage);this.chapterTrack.dataset.title=CHAPTER_MUSIC[stage].title;changed=true;}
+    if(chapterChanged){this.chapter=stage;this.chapterTrack.src=import.meta.env.BASE_URL+CHAPTER_MUSIC[stage].file.replace(/^\//,'');this.chapterTrack.dataset.chapter=String(stage);this.chapterTrack.dataset.title=CHAPTER_MUSIC[stage].title;changed=true;}
     if(this.menuActive===playing){this.menuActive=!playing;changed=true;}
     if(scene!==this.scene||chapterChanged){
       const previous=this.scene;this.scene=scene;
       const cue=cueFor(scene,Math.floor(stage/2));
-      if(cue&&this.musicEnabled){this.cueTrack.pause();this.cueTrack.src=cue;this.cueTrack.dataset.scene=scene;this.cueActive=true;changed=true;}
+      if(cue&&this.musicEnabled){this.cueTrack.pause();this.cueTrack.src=import.meta.env.BASE_URL+cue.replace(/^\//,'');this.cueTrack.dataset.scene=scene;this.cueActive=true;changed=true;}
       else if(!this.musicEnabled||scene==='menu'||scene==='defeat'||previous==='victory'||previous==='defeat'||chapterChanged){this.cueActive=false;this.cueTrack.pause();changed=true;}
     }
     if(changed)this.syncMenu();
