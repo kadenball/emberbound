@@ -1,0 +1,5 @@
+.menu-focus{outline:3px dashed #ffdf99!important;outline-offset:5px;box-shadow:0 0 0 7px #302938d9!important;scroll-margin:35px 18px}
+.setting.menu-focus{border-radius:5px;background:#c4bc8420}
+#controller-help{position:fixed;left:50%;bottom:max(7px,env(safe-area-inset-bottom));transform:translateX(-50%);z-index:20;max-width:94vw;padding:5px 10px;border:1px solid #b7ab7f;background:#232b2bf2;color:#e7dba9;font:10px monospace;line-height:1.3;text-align:center;pointer-events:none;border-radius:3px}
+#controller-help[hidden]{display:none}
+@media(max-height:530px){#controller-help{font-size:8px;padding:3px 7px;bottom:3px}.menu-focus{outline-offset:3px;scroll-margin:24px 10px}}

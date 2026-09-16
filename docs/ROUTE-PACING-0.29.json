@@ -1,0 +1,347 @@
+{
+  "method": "18 normal-input journeys: three heroes, three seeds, chapters 5 and 9, identical earned 0.28 profiles. Same playInput policy, no position/HP/wave edits. Durations include hit-stop frames; fight means encounterActive, road means outside encounters (including props and supplies). Floor occupancy is geometric, not an intentional choice metric. Scripted timings are not human pacing or enjoyment evidence.",
+  "rows": [
+    {
+      "hero": "ember",
+      "stage": 4,
+      "seed": 7,
+      "result": "won",
+      "seconds": 56,
+      "encounterSeconds": [
+        4.88,
+        7.42,
+        4.45,
+        8.75,
+        6.87,
+        6.23
+      ],
+      "roadSeconds": 17.4,
+      "onMovingFloorSeconds": 0.9,
+      "brakeAtSeconds": 11.62,
+      "hp": 197
+    },
+    {
+      "hero": "ember",
+      "stage": 4,
+      "seed": 140,
+      "result": "won",
+      "seconds": 62.7,
+      "encounterSeconds": [
+        4.02,
+        6.55,
+        6.63,
+        10.08,
+        6.4,
+        13.03
+      ],
+      "roadSeconds": 15.98,
+      "onMovingFloorSeconds": 1.48,
+      "brakeAtSeconds": 10.3,
+      "hp": 113
+    },
+    {
+      "hero": "ember",
+      "stage": 4,
+      "seed": 991,
+      "result": "won",
+      "seconds": 54.62,
+      "encounterSeconds": [
+        4.3,
+        8.03,
+        5.03,
+        9.25,
+        4.87,
+        6.17
+      ],
+      "roadSeconds": 16.97,
+      "onMovingFloorSeconds": 1.42,
+      "brakeAtSeconds": 10.72,
+      "hp": 193
+    },
+    {
+      "hero": "ember",
+      "stage": 8,
+      "seed": 7,
+      "result": "won",
+      "seconds": 57.85,
+      "encounterSeconds": [
+        4.73,
+        5.75,
+        6.65,
+        8.05,
+        5.98,
+        10.83
+      ],
+      "roadSeconds": 15.85,
+      "onMovingFloorSeconds": 1.15,
+      "brakeAtSeconds": 20.4,
+      "hp": 193
+    },
+    {
+      "hero": "ember",
+      "stage": 8,
+      "seed": 140,
+      "result": "won",
+      "seconds": 62.1,
+      "encounterSeconds": [
+        4.73,
+        5.68,
+        6.65,
+        9.22,
+        7.8,
+        11.03
+      ],
+      "roadSeconds": 16.98,
+      "onMovingFloorSeconds": 1.15,
+      "brakeAtSeconds": 20.38,
+      "hp": 182
+    },
+    {
+      "hero": "ember",
+      "stage": 8,
+      "seed": 991,
+      "result": "won",
+      "seconds": 61.68,
+      "encounterSeconds": [
+        4.73,
+        5.75,
+        5.5,
+        8.28,
+        9.12,
+        12.38
+      ],
+      "roadSeconds": 15.92,
+      "onMovingFloorSeconds": 1.15,
+      "brakeAtSeconds": 20.4,
+      "hp": 211
+    },
+    {
+      "hero": "frost",
+      "stage": 4,
+      "seed": 7,
+      "result": "won",
+      "seconds": 50.4,
+      "encounterSeconds": [
+        2.58,
+        5.53,
+        4.93,
+        7.53,
+        5.3,
+        7.07
+      ],
+      "roadSeconds": 17.45,
+      "onMovingFloorSeconds": 1.47,
+      "brakeAtSeconds": 8.58,
+      "hp": 147
+    },
+    {
+      "hero": "frost",
+      "stage": 4,
+      "seed": 140,
+      "result": "won",
+      "seconds": 53.78,
+      "encounterSeconds": [
+        2.58,
+        4.1,
+        5.8,
+        12.35,
+        5.6,
+        9.3
+      ],
+      "roadSeconds": 14.05,
+      "onMovingFloorSeconds": 1.52,
+      "brakeAtSeconds": 8.5,
+      "hp": 172
+    },
+    {
+      "hero": "frost",
+      "stage": 4,
+      "seed": 991,
+      "result": "won",
+      "seconds": 51.97,
+      "encounterSeconds": [
+        2.58,
+        5.28,
+        5.87,
+        10.38,
+        5.98,
+        6.43
+      ],
+      "roadSeconds": 15.43,
+      "onMovingFloorSeconds": 1.63,
+      "brakeAtSeconds": 8.57,
+      "hp": 186
+    },
+    {
+      "hero": "frost",
+      "stage": 8,
+      "seed": 7,
+      "result": "won",
+      "seconds": 55.52,
+      "encounterSeconds": [
+        2.63,
+        5,
+        8.12,
+        7.38,
+        7.07,
+        8.18
+      ],
+      "roadSeconds": 17.13,
+      "onMovingFloorSeconds": 1.67,
+      "brakeAtSeconds": 16.4,
+      "hp": 223
+    },
+    {
+      "hero": "frost",
+      "stage": 8,
+      "seed": 140,
+      "result": "won",
+      "seconds": 50.93,
+      "encounterSeconds": [
+        2.67,
+        4.37,
+        6.35,
+        9.37,
+        5.82,
+        8.1
+      ],
+      "roadSeconds": 14.27,
+      "onMovingFloorSeconds": 1.7,
+      "brakeAtSeconds": 17.9,
+      "hp": 228
+    },
+    {
+      "hero": "frost",
+      "stage": 8,
+      "seed": 991,
+      "result": "won",
+      "seconds": 55.77,
+      "encounterSeconds": [
+        2.63,
+        5,
+        8.12,
+        7.02,
+        5.65,
+        11.43
+      ],
+      "roadSeconds": 15.92,
+      "onMovingFloorSeconds": 1.67,
+      "brakeAtSeconds": 16.4,
+      "hp": 167
+    },
+    {
+      "hero": "moss",
+      "stage": 4,
+      "seed": 7,
+      "result": "won",
+      "seconds": 55.53,
+      "encounterSeconds": [
+        2.42,
+        4.75,
+        7.67,
+        10.55,
+        6.25,
+        6.23
+      ],
+      "roadSeconds": 17.67,
+      "onMovingFloorSeconds": 1.25,
+      "brakeAtSeconds": 9.52,
+      "hp": 194
+    },
+    {
+      "hero": "moss",
+      "stage": 4,
+      "seed": 140,
+      "result": "won",
+      "seconds": 56.4,
+      "encounterSeconds": [
+        2.42,
+        4.75,
+        5.73,
+        12.07,
+        5.88,
+        7.75
+      ],
+      "roadSeconds": 17.8,
+      "onMovingFloorSeconds": 1.5,
+      "brakeAtSeconds": 9.35,
+      "hp": 222
+    },
+    {
+      "hero": "moss",
+      "stage": 4,
+      "seed": 991,
+      "result": "won",
+      "seconds": 55.22,
+      "encounterSeconds": [
+        2.42,
+        4.52,
+        7.25,
+        8.4,
+        7.28,
+        6.47
+      ],
+      "roadSeconds": 18.88,
+      "onMovingFloorSeconds": 1.48,
+      "brakeAtSeconds": 9.23,
+      "hp": 231
+    },
+    {
+      "hero": "moss",
+      "stage": 8,
+      "seed": 7,
+      "result": "won",
+      "seconds": 56.67,
+      "encounterSeconds": [
+        3.25,
+        4.85,
+        6.5,
+        8.85,
+        4.72,
+        9.52
+      ],
+      "roadSeconds": 18.98,
+      "onMovingFloorSeconds": 2.33,
+      "brakeAtSeconds": 22.78,
+      "hp": 273
+    },
+    {
+      "hero": "moss",
+      "stage": 8,
+      "seed": 140,
+      "result": "won",
+      "seconds": 62.35,
+      "encounterSeconds": [
+        3.35,
+        4.88,
+        5.77,
+        10.32,
+        9.55,
+        7.87
+      ],
+      "roadSeconds": 20.62,
+      "onMovingFloorSeconds": 1.23,
+      "brakeAtSeconds": 19.43,
+      "hp": 245
+    },
+    {
+      "hero": "moss",
+      "stage": 8,
+      "seed": 991,
+      "result": "won",
+      "seconds": 58.53,
+      "encounterSeconds": [
+        3.33,
+        7.02,
+        4.68,
+        9.88,
+        6.03,
+        8.57
+      ],
+      "roadSeconds": 19.02,
+      "onMovingFloorSeconds": 1.73,
+      "brakeAtSeconds": 21.28,
+      "hp": 252
+    }
+  ]
+}

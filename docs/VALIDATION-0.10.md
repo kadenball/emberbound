@@ -1,0 +1,13 @@
+# Local validation — 0.10.0, 2026-09-08
+
+- **114 simulation tests passed.** New boss contracts cover a real encounter entrance, frozen combat/resource use with fading visual effects, the one-time half-health transition, cleared hostile carryover, lethal-projectile defeat timing, delayed/exactly-once victory settlement and retrying a boss without replaying its entrance.
+- Existing twelve-chapter hero/style campaigns and retry/settlement regressions remain passing. Three older focused tests were updated to wait for or skip the new entrance/breakdown instead of expecting the old immediate attack/win timing. Their combat and reward assertions remain.
+- **61 browser checks passed**, eight inapplicable combinations skipped, across desktop Chromium, Android-sized Chromium and iPhone-sized WebKit. New integration coverage plays the first boss chapter through entrance, breakdown, defeat, aftermath and crown-tooth banking. A test-only driver supplies normal combat inputs in accelerated fixed steps from a plausible saved loadout; it does not edit HP/positions or skip waves. It holds boss scenes to inspect their actual controls and capture images. This is not real-time human gameplay.
+- Boss UI captures verify the skip control stays in the viewport; the desktop and iPhone-sized entry/phase images were visually inspected. A separate twelve-second six-boss animation study uses staged poses, with no recorded page errors. Its roster was visually inspected. The study and browser-driver captures are labelled in `UPDATE-0.10.md`.
+- Existing browser audio, story, controls, co-op, save and real-time defeat/retry checks passed. Boss sound cues are synthesized; no human listening/mix review has been performed.
+- Strict TypeScript, production Vite build and Capacitor Android/iOS sync passed. The display font loads before cached sign artwork is drawn.
+- Android `assembleDebug bundleRelease lintRelease` passed, version 0.10.0/code 10. Debug APK installable; release AAB unsigned. Existing dependency lint baseline retained.
+- Xcode project syntax and iOS plists parse. Native iOS build/signing is not verified on this Linux host.
+- `scripts/package.py` checks every bundled web/audio byte against the current production build before packaging and writes download checksums.
+
+The full quality target remains open. This pass adds separate boss anatomy and performed entrances/breakdowns/defeats, not six additional attack systems. The final ending UI, sustained human campaign enjoyment, music quality, native-device performance/lifecycle behavior and native iOS release work remain unproven. See [the open target](QUALITY-TARGET.md), [0.10 changes](UPDATE-0.10.md) and [playtest kit](PLAYTEST.md). Prior evidence remains in `VALIDATION-0.9.md`.

@@ -1,0 +1,12 @@
+:root{--acid:#d8f477;--bruise:#d8a3bd}
+.topbar .brand small{color:var(--acid);letter-spacing:.19em}.wallet{color:var(--acid)}
+.forge-page h2,.result-modal h2{font-family:Impact,'Arial Black',sans-serif;text-transform:uppercase;letter-spacing:.02em;color:#f6e6c5;text-shadow:3px 3px 0 #814957}
+.upgrade-card,.style-card{border:2px dashed #8c8370;background:linear-gradient(145deg,#303c35,#322c37);box-shadow:5px 6px 0 #152623}
+.upgrade-card:nth-child(2){transform:rotate(-.7deg)}.upgrade-pips .filled{background:var(--acid)}
+.filth-manifesto{margin:28px 0;padding:22px 26px;border:3px solid #283a31;background:#d8f477;color:#243329;box-shadow:7px 7px 0 #1a2926;max-width:100%;transform:rotate(-.4deg)}
+.filth-manifesto strong{font-family:Impact,'Arial Black',sans-serif;font-size:clamp(22px,3vw,34px);letter-spacing:.035em}.filth-manifesto p{font-size:14px;line-height:1.6;margin:10px 0 0}
+.bar.filth{height:15px;margin-top:4px;background:#352734;border:1px dashed #b2ba83}.bar.filth i{background:linear-gradient(90deg,#ba81ac,#d8f477)}.bar.filth span{font-size:9px;font-weight:900;letter-spacing:.03em;color:#fff;mix-blend-mode:normal;text-shadow:0 1px 3px #000,0 0 3px #000}
+.result-modal{border:3px dashed #a6ad74}.result-modal .eyebrow{color:var(--acid)}.result-symbol{color:var(--bruise);transform:rotate(-10deg)}
+@media(max-height:500px){.bar.filth{height:12px;margin-top:2px}.bar.filth span{font-size:8px}.hud .bars{min-width:185px}.topbar nav button{font-size:11px;padding:9px}}
+@media(prefers-reduced-motion:reduce){.upgrade-card:nth-child(2),.filth-manifesto{transform:none}}
+.panel-page h2,.hero-copy h3{font-family:Impact,'Arial Black',sans-serif;text-transform:uppercase;letter-spacing:.025em}.hero-element{background:#d8f477;color:#28392b;border:2px solid #354238;transform:rotate(5deg);font-weight:900}.hero-card .spell-detail strong{color:#dcf58c}.hero-card.selected{box-shadow:5px 5px 0 #101f22}.hero-card:nth-child(2) .hero-element{background:#b4e4e9;transform:rotate(-5deg)}.hero-card:nth-child(3) .hero-element{background:#e5b0c5}

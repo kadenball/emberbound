@@ -1,0 +1,13 @@
+# 0.21 — The orchestra has a plumbing problem
+
+The twelve chapter scores previously played at one fixed level. Crowd hits could stack identical effects, and boss performances had no separate regional musical punctuation. The new mix changes with the scene and adds eighteen original short cues: entrance, rage and victory for each of the six regions. They use their boss score's key and instruments; victory briefly turns major and ends with a comic answering phrase.
+
+Music recedes during travel and performances, builds for combat and rage, and stays with the chapter through victory, defeat and the aftermath. Returning to camp restores the selected menu recording. Important danger effects reduce both the score and any performance cue for 0.65 seconds. Repeated events have short suppression windows; ordinary effects use at most 48 scheduled sources, with additional capacity for warnings and a hard 64-source ceiling. A shared compressor controls combined peaks. Music and effects remain independently switchable. Pause cancels pending synthesized effects and preserves media position; disabling music discards a pending cue instead of reviving it later.
+
+The actual-signal test exposed a WebKit initialization fault: preloading the menu file before connecting its media source could leave it silently stalled despite its playback flag. Connecting the graph before assigning the file fixes the local reproduction. This is why verification checks samples, not only `paused` and `currentTime`.
+
+[Listen to the staged mix preview](../artifacts/audio-review-0.21.mp3): combat, kettle entrance, clustered impacts with a warning, rage, victory. It uses the production mixer but deliberately stages the sequence; it is not a human listening review or a gameplay recording. [Decoded sample measurements](AUDIO-AUDIT-0.21.json) cover all eighteen cues and this preview. Source MIDI, reproduction instructions and instrument licenses remain in the project.
+
+The reference comparison has two jobs here: readable warnings and clean retries follow the Super Meat Boy lessons, while regional performances and musical payoffs support the Castle Crashers adventure lessons. These are design interpretations of the [documented research](LEVEL-DESIGN-RESEARCH.md), not claims of equivalent quality. This pass changes no combat or progression rules, so the remaining Heavy-only exploit and human fun/pacing questions from 0.20 still stand. The prior 432-run combat and 162-run supply audits were not rerun for this audio change.
+
+Verification and release limitations are recorded in [current validation](VALIDATION.md). Physical-device audio interruption, headphone/speaker balance, human musical quality and native iOS compilation remain open.

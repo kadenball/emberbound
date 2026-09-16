@@ -1,0 +1,28 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.log
+*.keystore
+*.jks
+android/local.properties
+.DS_Store
+artifacts/*.apk
+artifacts/*.aab
+artifacts/*.zip
+
+# Local credentials, generated builds and private development captures
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+private/
+artifacts/
+.gradle/
+build/
+DerivedData/
+xcuserdata/
+# Original recording archives are retained locally; bundled game audio is in public/.
+music/archive/
+music/source/udio/*.mp3

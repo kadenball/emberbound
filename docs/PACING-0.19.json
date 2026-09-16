@@ -1,0 +1,107 @@
+{
+  "method": "Observed before the 0.20 edits: Ash, six journey-entry profiles from COMBAT-AUDIT-0.19.json, seed 140, unchanged playInput steering at 60 simulation steps/second. Per-frame priority: live enemies = combat; unfinished cart = escort; unfinished current machine = machine; attack/heavy input = props; otherwise = travel. Reported seconds are rounded. These are scripted timings, not human playtime or native performance.",
+  "rows": [
+    {
+      "stage": 0,
+      "result": "won",
+      "seconds": {
+        "props": 1.5,
+        "travel": 13.8,
+        "combat": 46.4,
+        "machine": 0.9,
+        "escort": 3
+      },
+      "travelSpansOverOneSecond": [
+        3.6,
+        3.4,
+        2.6
+      ]
+    },
+    {
+      "stage": 2,
+      "result": "won",
+      "seconds": {
+        "travel": 13,
+        "combat": 43,
+        "props": 1,
+        "escort": 2.6
+      },
+      "travelSpansOverOneSecond": [
+        3.4,
+        1.5,
+        3,
+        1.3
+      ]
+    },
+    {
+      "stage": 4,
+      "result": "won",
+      "seconds": {
+        "travel": 15.1,
+        "combat": 42.2,
+        "props": 0.6,
+        "escort": 2.4
+      },
+      "travelSpansOverOneSecond": [
+        3.2,
+        2.9,
+        1.7,
+        2
+      ]
+    },
+    {
+      "stage": 6,
+      "result": "won",
+      "seconds": {
+        "travel": 17.3,
+        "combat": 57.4,
+        "props": 0.6
+      },
+      "travelSpansOverOneSecond": [
+        3.3,
+        1.4,
+        1.1,
+        1.5,
+        2,
+        1.1,
+        4.3
+      ]
+    },
+    {
+      "stage": 8,
+      "result": "won",
+      "seconds": {
+        "travel": 15.9,
+        "combat": 41.4,
+        "props": 0.7,
+        "escort": 1.9
+      },
+      "travelSpansOverOneSecond": [
+        1.8,
+        1.7,
+        1.2,
+        2.1,
+        2.8,
+        1.1,
+        2.1
+      ]
+    },
+    {
+      "stage": 10,
+      "result": "won",
+      "seconds": {
+        "travel": 15.7,
+        "combat": 43.9,
+        "machine": 0.2,
+        "props": 0.4
+      },
+      "travelSpansOverOneSecond": [
+        2.6,
+        2.2,
+        2.7,
+        2.8,
+        2.4
+      ]
+    }
+  ]
+}

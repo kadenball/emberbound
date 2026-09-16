@@ -1,0 +1,30 @@
+{
+  "version": "0.27.0",
+  "serial": "emulator-5554",
+  "checks": [
+    "Bundled native app launches in landscape",
+    "Menu audio transport advances after a gesture",
+    "Hero and sound choice reach Android SharedPreferences",
+    "Offline packaged battle accepts Jump and Power touches",
+    "Android Back pauses combat",
+    "Home/foreground preserves the pause and stops chapter transport",
+    "Native process death preserves the complete saved profile and adventure bookmark",
+    "Continue resumes the saved hero and grants no duplicate banked rewards"
+  ],
+  "errors": [],
+  "platform": {
+    "platform": "android",
+    "url": "https://localhost/",
+    "width": 866,
+    "height": 412,
+    "dpr": 2.625,
+    "ua": "Mozilla/5.0 (Linux; Android 16; sdk_gphone64_x86_64 Build/BE2A.250530.026.F3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36"
+  },
+  "saved": {
+    "hero": "frost",
+    "xp": 0,
+    "gold": 0,
+    "stage": 0
+  },
+  "status": "passed"
+}

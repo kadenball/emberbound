@@ -1,0 +1,249 @@
+{
+  "source": "User-provided Udio songs, 2026-09-08",
+  "tracks": [
+    {
+      "index": 1,
+      "songId": "3Yv8yevmFkLLHu44BiJ4XK",
+      "page": "https://www.udio.com/songs/3Yv8yevmFkLLHu44BiJ4XK",
+      "title": "Battle Awaits",
+      "artist": "Ashtro",
+      "prompt": "make a level 1 song for a game like Castle Crashers i want it to be an instrumental for a battle side scrolling game",
+      "tags": [
+        "instrumental",
+        "energetic",
+        "epic music",
+        "cinematic classical",
+        "classical music",
+        "western classical music",
+        "choral",
+        "epic",
+        "orchestral",
+        "anthemic",
+        "aggressive",
+        "martial",
+        "bittersweet",
+        "hypnotic",
+        "triumphant"
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/1d1b7e2f18f44797adaf421ec5391c19/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-01.mp3",
+      "sha256": "15b4552e2dc94da16942ae1a95b867f0e905e3d5f244fdcc0cbf67b36a9f028c",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "songId": "hgy6Wcpmyp3538s8kPNAwi",
+      "page": "https://www.udio.com/songs/hgy6Wcpmyp3538s8kPNAwi",
+      "title": "Triumphant Echoes",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/e074f7cfbef042a9bac843d9ade87f0e/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-02.mp3",
+      "sha256": "a2b14aa5bd7b26ac1a857dd44fe5c0999b3d9d15b72490a448ddb6e6530ef6e5",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "songId": "1GsZQvdgSnaL4J53XdfYwi",
+      "page": "https://www.udio.com/songs/1GsZQvdgSnaL4J53XdfYwi",
+      "title": "Anthem of Triumph",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/e074f7cfbef042a9bac843d9ade87f0e/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-03.mp3",
+      "sha256": "fd97e1e32a9e45aeedfae420fc3412b8cb2bb5905f47bfb6e8cbc3c5b8f05f3d",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "songId": "t77bXLtSx9uiAXhVPSYrd1",
+      "page": "https://www.udio.com/songs/t77bXLtSx9uiAXhVPSYrd1",
+      "title": "Eternal Echoes",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/eba2be86d0ed4187bc31ed4ee3ed42cf/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-04.mp3",
+      "sha256": "a08b1880fecda25d8c17bcad5cccc1927ded51e9037bd8f857e9fd18f8b8a954",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "songId": "jt1g77QDM9x2m45xSzx1VS",
+      "page": "https://www.udio.com/songs/jt1g77QDM9x2m45xSzx1VS",
+      "title": "Cinematic Triumph",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/eba2be86d0ed4187bc31ed4ee3ed42cf/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-05.mp3",
+      "sha256": "a66f5d2642edf7b2f0afebd7d2e2133391f2e121fb0009ddcecfbbf48c15857b",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "songId": "oCwuKR4XLUPf1ymyHHYJWJ",
+      "page": "https://www.udio.com/songs/oCwuKR4XLUPf1ymyHHYJWJ",
+      "title": "Rhapsody in Motion",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/f08e729a0df348a589826df9a98893db/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-06.mp3",
+      "sha256": "d42d420ca0ea700532b9ac6bad2aa17f647498f57863cb82835c0602b622ab06",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "songId": "7zUw84pciFR76MTUP5EBvW",
+      "page": "https://www.udio.com/songs/7zUw84pciFR76MTUP5EBvW",
+      "title": "Echoes of Harmony",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/f08e729a0df348a589826df9a98893db/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-07.mp3",
+      "sha256": "433a48df3ac4e09ebcc047a8c583a78cf6090850b74d11974887c1a7c23db776",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "songId": "catXm13jdaMr1mzqkn6Ssr",
+      "page": "https://www.udio.com/songs/catXm13jdaMr1mzqkn6Ssr",
+      "title": "Symphonic Breaks",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/932f2b64ced34b5b9e61086e6b4cca18/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-08.mp3",
+      "sha256": "8718249f86d95b7ca35a2312fd8cd31ba33acaac7e5fb07d337e746cd953e8bf",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "songId": "aDLD6J5RGd6uLPfAProQbn",
+      "page": "https://www.udio.com/songs/aDLD6J5RGd6uLPfAProQbn",
+      "title": "Breaking the Silence",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/932f2b64ced34b5b9e61086e6b4cca18/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-09.mp3",
+      "sha256": "2ecff1c5527126edd56b86bb7d23e9f21844b8f88cbed8a4a500ae4e26d88ff5",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "songId": "attHhyK21AqDQRTRq6Dbxr",
+      "page": "https://www.udio.com/songs/attHhyK21AqDQRTRq6Dbxr",
+      "title": "Static Harmony",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/b71c51b436c443cbb476f00def971082/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-10.mp3",
+      "sha256": "bb616937440acb9368e42a8d3dfdf25b957f364bd986cdff2cf642a1f2b7900e",
+      "bytes": 3142186,
+      "seconds": 130.858667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ]
+    }
+  ]
+}

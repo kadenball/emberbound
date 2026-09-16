@@ -1,0 +1,1234 @@
+{
+  "status": "intermittent failure unresolved",
+  "testRepetitions": {
+    "passed": 2,
+    "failed": 1,
+    "failure": "initial mixer RMS stayed zero for five seconds"
+  },
+  "diagnosticRuns": [
+    {
+      "probe": "emberbound-audio-probe",
+      "run": 0,
+      "samples": [
+        {
+          "rms": 0.006699754400032299,
+          "context": "running",
+          "clock": 1.036190476190476,
+          "time": 1.92,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.00754368614026421,
+          "context": "running",
+          "clock": 2.040453514739229,
+          "time": 2.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.013040576401994663,
+          "context": "running",
+          "clock": 3.044716553287982,
+          "time": 3.912,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0077957099912817785,
+          "context": "running",
+          "clock": 4.046077097505669,
+          "time": 4.92,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011594638356814721,
+          "context": "running",
+          "clock": 5.050340136054421,
+          "time": 5.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0013080543108265792,
+          "context": "running",
+          "clock": 6.051700680272109,
+          "time": 6.936,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-probe",
+      "run": 1,
+      "samples": [
+        {
+          "rms": 0.006513161783526556,
+          "context": "running",
+          "clock": 1.0332879818594105,
+          "time": 1.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006408771111388341,
+          "context": "running",
+          "clock": 2.0346485260770977,
+          "time": 2.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.010611113201087315,
+          "context": "running",
+          "clock": 3.03891156462585,
+          "time": 3.936,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0075648145122626295,
+          "context": "running",
+          "clock": 4.040272108843538,
+          "time": 4.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011813667822059925,
+          "context": "running",
+          "clock": 5.04453514739229,
+          "time": 5.952,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014294723297164317,
+          "context": "running",
+          "clock": 6.045895691609977,
+          "time": 6.96,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-probe",
+      "run": 2,
+      "samples": [
+        {
+          "rms": 0.006478300699132095,
+          "context": "running",
+          "clock": 1.0303854875283447,
+          "time": 1.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006408771111388341,
+          "context": "running",
+          "clock": 2.0346485260770977,
+          "time": 2.976,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.010864867289362538,
+          "context": "running",
+          "clock": 3.0360090702947846,
+          "time": 3.984,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.007548629050626079,
+          "context": "running",
+          "clock": 4.040272108843538,
+          "time": 4.992,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011771291982350014,
+          "context": "running",
+          "clock": 5.0416326530612245,
+          "time": 6,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014117988703593795,
+          "context": "running",
+          "clock": 6.045895691609977,
+          "time": 6.984,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-probe",
+      "run": 3,
+      "samples": [
+        {
+          "rms": 0.006478300699132095,
+          "context": "running",
+          "clock": 1.0303854875283447,
+          "time": 1.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006408771111388341,
+          "context": "running",
+          "clock": 2.0346485260770977,
+          "time": 2.976,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.010864867289362538,
+          "context": "running",
+          "clock": 3.0360090702947846,
+          "time": 3.984,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.00752892843863529,
+          "context": "running",
+          "clock": 4.037369614512472,
+          "time": 4.992,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011772840875433729,
+          "context": "running",
+          "clock": 5.038730158730159,
+          "time": 6,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014117378007376701,
+          "context": "running",
+          "clock": 6.0429931972789115,
+          "time": 6.984,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-probe",
+      "run": 4,
+      "samples": [
+        {
+          "rms": 0.006513161783526556,
+          "context": "running",
+          "clock": 1.0332879818594105,
+          "time": 1.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006408771111388341,
+          "context": "running",
+          "clock": 2.0346485260770977,
+          "time": 2.952,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.010611113201087315,
+          "context": "running",
+          "clock": 3.03891156462585,
+          "time": 3.936,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0075648145122626295,
+          "context": "running",
+          "clock": 4.040272108843538,
+          "time": 4.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011813667822059925,
+          "context": "running",
+          "clock": 5.04453514739229,
+          "time": 5.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014294723297164317,
+          "context": "running",
+          "clock": 6.045895691609977,
+          "time": 6.936,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-probe",
+      "run": 5,
+      "samples": [
+        {
+          "rms": 0.006513161783526556,
+          "context": "running",
+          "clock": 1.0332879818594105,
+          "time": 1.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006408771111388341,
+          "context": "running",
+          "clock": 2.0346485260770977,
+          "time": 2.952,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.010864867289362538,
+          "context": "running",
+          "clock": 3.0360090702947846,
+          "time": 3.936,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.00752892843863529,
+          "context": "running",
+          "clock": 4.037369614512472,
+          "time": 4.92,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011861295268749857,
+          "context": "running",
+          "clock": 5.0416326530612245,
+          "time": 5.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014117378007376701,
+          "context": "running",
+          "clock": 6.0429931972789115,
+          "time": 6.96,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-cold-probe",
+      "run": 0,
+      "samples": [
+        {
+          "rms": 0.006513161783526556,
+          "context": "running",
+          "clock": 1.0332879818594105,
+          "time": 1.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.00606734240189161,
+          "context": "running",
+          "clock": 2.0375510204081633,
+          "time": 2.976,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.00995902322831496,
+          "context": "running",
+          "clock": 3.0418140589569163,
+          "time": 3.984,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.007403497676537247,
+          "context": "running",
+          "clock": 4.043174603174603,
+          "time": 4.992,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011800540847545457,
+          "context": "running",
+          "clock": 5.047437641723356,
+          "time": 6,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014388673647867712,
+          "context": "running",
+          "clock": 6.048798185941043,
+          "time": 6.984,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-cold-probe",
+      "run": 1,
+      "samples": [
+        {
+          "rms": 0.006478300699132095,
+          "context": "running",
+          "clock": 1.0303854875283447,
+          "time": 1.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006408771111388341,
+          "context": "running",
+          "clock": 2.0346485260770977,
+          "time": 2.952,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.010864867289362538,
+          "context": "running",
+          "clock": 3.0360090702947846,
+          "time": 3.936,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0075648145122626295,
+          "context": "running",
+          "clock": 4.040272108843538,
+          "time": 4.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011861295268749857,
+          "context": "running",
+          "clock": 5.0416326530612245,
+          "time": 5.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014294723297164317,
+          "context": "running",
+          "clock": 6.045895691609977,
+          "time": 6.96,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-cold-probe",
+      "run": 2,
+      "samples": [
+        {
+          "rms": 0.006478300699132095,
+          "context": "running",
+          "clock": 1.0303854875283447,
+          "time": 1.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006978730239058398,
+          "context": "running",
+          "clock": 2.0317460317460316,
+          "time": 2.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011360238232234886,
+          "context": "running",
+          "clock": 3.0360090702947846,
+          "time": 3.936,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.00763966519953704,
+          "context": "running",
+          "clock": 4.037369614512472,
+          "time": 4.92,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011771291982350014,
+          "context": "running",
+          "clock": 5.0416326530612245,
+          "time": 5.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.001373992234586493,
+          "context": "running",
+          "clock": 6.0429931972789115,
+          "time": 6.96,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-cold-probe",
+      "run": 3,
+      "samples": [
+        {
+          "rms": 0.006513161783526556,
+          "context": "running",
+          "clock": 1.0332879818594105,
+          "time": 1.944,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006408771111388341,
+          "context": "running",
+          "clock": 2.0346485260770977,
+          "time": 2.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.010864867289362538,
+          "context": "running",
+          "clock": 3.0360090702947846,
+          "time": 3.936,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0075648145122626295,
+          "context": "running",
+          "clock": 4.040272108843538,
+          "time": 4.92,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011861295268749857,
+          "context": "running",
+          "clock": 5.0416326530612245,
+          "time": 5.928,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014117378007376701,
+          "context": "running",
+          "clock": 6.0429931972789115,
+          "time": 6.936,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-cold-probe",
+      "run": 4,
+      "samples": [
+        {
+          "rms": 0.006478300699132095,
+          "context": "running",
+          "clock": 1.0303854875283447,
+          "time": 1.968,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006408771111388341,
+          "context": "running",
+          "clock": 2.0346485260770977,
+          "time": 2.952,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.010864867289362538,
+          "context": "running",
+          "clock": 3.0360090702947846,
+          "time": 3.96,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0075648145122626295,
+          "context": "running",
+          "clock": 4.040272108843538,
+          "time": 4.968,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011861295268749857,
+          "context": "running",
+          "clock": 5.0416326530612245,
+          "time": 5.976,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014117378007376701,
+          "context": "running",
+          "clock": 6.0429931972789115,
+          "time": 6.96,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    },
+    {
+      "probe": "emberbound-audio-cold-probe",
+      "run": 5,
+      "samples": [
+        {
+          "rms": 0.006513161783526556,
+          "context": "running",
+          "clock": 1.0332879818594105,
+          "time": 1.968,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.006408771111388341,
+          "context": "running",
+          "clock": 2.0346485260770977,
+          "time": 2.952,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.010864867289362538,
+          "context": "running",
+          "clock": 3.0360090702947846,
+          "time": 3.96,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0075648145122626295,
+          "context": "running",
+          "clock": 4.040272108843538,
+          "time": 4.968,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.011813667822059925,
+          "context": "running",
+          "clock": 5.04453514739229,
+          "time": 5.976,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        },
+        {
+          "rms": 0.0014294723297164317,
+          "context": "running",
+          "clock": 6.045895691609977,
+          "time": 6.96,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "pending": 0,
+          "events": [
+            "waiting",
+            "loadedmetadata",
+            "canplay",
+            "playing"
+          ]
+        }
+      ]
+    }
+  ]
+}

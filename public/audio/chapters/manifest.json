@@ -1,0 +1,122 @@
+[
+  {
+    "chapter": 0,
+    "title": "Battle Awaits",
+    "artist": "Ashtro",
+    "songId": "3Yv8yevmFkLLHu44BiJ4XK",
+    "source": "https://www.udio.com/songs/3Yv8yevmFkLLHu44BiJ4XK",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-01.mp3",
+    "sha256": "7d4b55a001a4f062b1d6d6dce610ff137a9083d2d037a2e9411bf69bf3f42457"
+  },
+  {
+    "chapter": 1,
+    "title": "Triumphant Echoes",
+    "artist": "Ashtro",
+    "songId": "hgy6Wcpmyp3538s8kPNAwi",
+    "source": "https://www.udio.com/songs/hgy6Wcpmyp3538s8kPNAwi",
+    "seconds": 130.858662,
+    "file": "/audio/chapters/track-02.mp3",
+    "sha256": "e8d0e634ccb4c0e7bb72821e77f6fac64e53eeac72aad21652a3081c0225b1af"
+  },
+  {
+    "chapter": 2,
+    "title": "Anthem of Triumph",
+    "artist": "Ashtro",
+    "songId": "1GsZQvdgSnaL4J53XdfYwi",
+    "source": "https://www.udio.com/songs/1GsZQvdgSnaL4J53XdfYwi",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-03.mp3",
+    "sha256": "8029306c19b29125dbaf0da0f4edea21eea188da973ea09b7f4b3a4113255a02"
+  },
+  {
+    "chapter": 3,
+    "title": "Eternal Echoes",
+    "artist": "Ashtro",
+    "songId": "t77bXLtSx9uiAXhVPSYrd1",
+    "source": "https://www.udio.com/songs/t77bXLtSx9uiAXhVPSYrd1",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-04.mp3",
+    "sha256": "b941ea2de36d69174e839b6caf212c2588ca5802e30e85acb8807ff93a302665"
+  },
+  {
+    "chapter": 4,
+    "title": "Cinematic Triumph",
+    "artist": "Ashtro",
+    "songId": "jt1g77QDM9x2m45xSzx1VS",
+    "source": "https://www.udio.com/songs/jt1g77QDM9x2m45xSzx1VS",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-05.mp3",
+    "sha256": "dde6e5bc052b43dc9db613c3392bfce124dda75df921e5faae64f3bd1aadd88b"
+  },
+  {
+    "chapter": 5,
+    "title": "Rhapsody in Motion",
+    "artist": "Ashtro",
+    "songId": "oCwuKR4XLUPf1ymyHHYJWJ",
+    "source": "https://www.udio.com/songs/oCwuKR4XLUPf1ymyHHYJWJ",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-06.mp3",
+    "sha256": "5b2e3046ff1783cff3fdae662493118501bf579b534f9ed0bd8d29b351000b8a"
+  },
+  {
+    "chapter": 6,
+    "title": "Echoes of Harmony",
+    "artist": "Ashtro",
+    "songId": "7zUw84pciFR76MTUP5EBvW",
+    "source": "https://www.udio.com/songs/7zUw84pciFR76MTUP5EBvW",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-07.mp3",
+    "sha256": "eb66ff54c26e1696133a950b1cdf4099dd06b43641c384cedc04555b1a1a7c4f"
+  },
+  {
+    "chapter": 7,
+    "title": "Symphonic Breaks",
+    "artist": "Ashtro",
+    "songId": "catXm13jdaMr1mzqkn6Ssr",
+    "source": "https://www.udio.com/songs/catXm13jdaMr1mzqkn6Ssr",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-08.mp3",
+    "sha256": "3018287885549786e53bc8826c799d280db47c37ec40815f6dca490569a32869"
+  },
+  {
+    "chapter": 8,
+    "title": "Breaking the Silence",
+    "artist": "Ashtro",
+    "songId": "aDLD6J5RGd6uLPfAProQbn",
+    "source": "https://www.udio.com/songs/aDLD6J5RGd6uLPfAProQbn",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-09.mp3",
+    "sha256": "a9f2b9fa82bb3042837ba4cf4ce2b346ae39fccb892c0fde1337a51ddde917ec"
+  },
+  {
+    "chapter": 9,
+    "title": "Static Harmony",
+    "artist": "Ashtro",
+    "songId": "attHhyK21AqDQRTRq6Dbxr",
+    "source": "https://www.udio.com/songs/attHhyK21AqDQRTRq6Dbxr",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-10.mp3",
+    "sha256": "2c7954a7db2a0baf4fa10d70e3ce5909cb84c98e5ffb070559df7fbe9e90f094"
+  },
+  {
+    "chapter": 10,
+    "title": "Triumphant Echoes",
+    "artist": "Ashtro",
+    "songId": "hgy6Wcpmyp3538s8kPNAwi",
+    "source": "https://www.udio.com/songs/hgy6Wcpmyp3538s8kPNAwi",
+    "seconds": 130.858662,
+    "file": "/audio/chapters/track-02.mp3",
+    "sha256": "e8d0e634ccb4c0e7bb72821e77f6fac64e53eeac72aad21652a3081c0225b1af"
+  },
+  {
+    "chapter": 11,
+    "title": "Static Harmony",
+    "artist": "Ashtro",
+    "songId": "attHhyK21AqDQRTRq6Dbxr",
+    "source": "https://www.udio.com/songs/attHhyK21AqDQRTRq6Dbxr",
+    "seconds": 130.858685,
+    "file": "/audio/chapters/track-10.mp3",
+    "sha256": "2c7954a7db2a0baf4fa10d70e3ce5909cb84c98e5ffb070559df7fbe9e90f094"
+  }
+]

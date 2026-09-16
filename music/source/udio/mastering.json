@@ -1,0 +1,390 @@
+{
+  "menuSha256": "a566a24bfbc390e930b95425a2eddd0e4ac40a31e924bb486a9a939cec196907",
+  "target": "-18 LUFS, -1.5 dBTP, stereo 44.1 kHz 160 kbit/s; 80 ms start and 750 ms end fades",
+  "tracks": [
+    {
+      "index": 1,
+      "songId": "3Yv8yevmFkLLHu44BiJ4XK",
+      "page": "https://www.udio.com/songs/3Yv8yevmFkLLHu44BiJ4XK",
+      "title": "Battle Awaits",
+      "artist": "Ashtro",
+      "prompt": "make a level 1 song for a game like Castle Crashers i want it to be an instrumental for a battle side scrolling game",
+      "tags": [
+        "instrumental",
+        "energetic",
+        "epic music",
+        "cinematic classical",
+        "classical music",
+        "western classical music",
+        "choral",
+        "epic",
+        "orchestral",
+        "anthemic",
+        "aggressive",
+        "martial",
+        "bittersweet",
+        "hypnotic",
+        "triumphant"
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/1d1b7e2f18f44797adaf421ec5391c19/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-01.mp3",
+      "sha256": "7d4b55a001a4f062b1d6d6dce610ff137a9083d2d037a2e9411bf69bf3f42457",
+      "bytes": 3142186,
+      "seconds": 130.858685,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-01.mp3",
+      "sourceSha256": "15b4552e2dc94da16942ae1a95b867f0e905e3d5f244fdcc0cbf67b36a9f028c",
+      "masteringInput": {
+        "input_i": "-11.44",
+        "input_tp": "-0.58",
+        "input_lra": "13.30",
+        "input_thresh": "-22.47",
+        "output_i": "-15.42",
+        "output_tp": "-1.50",
+        "output_lra": "11.20",
+        "output_thresh": "-26.05",
+        "normalization_type": "dynamic",
+        "target_offset": "-2.58"
+      }
+    },
+    {
+      "index": 2,
+      "songId": "hgy6Wcpmyp3538s8kPNAwi",
+      "page": "https://www.udio.com/songs/hgy6Wcpmyp3538s8kPNAwi",
+      "title": "Triumphant Echoes",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/e074f7cfbef042a9bac843d9ade87f0e/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-02.mp3",
+      "sha256": "e8d0e634ccb4c0e7bb72821e77f6fac64e53eeac72aad21652a3081c0225b1af",
+      "bytes": 3142186,
+      "seconds": 130.858662,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-02.mp3",
+      "sourceSha256": "a2b14aa5bd7b26ac1a857dd44fe5c0999b3d9d15b72490a448ddb6e6530ef6e5",
+      "masteringInput": {
+        "input_i": "-11.39",
+        "input_tp": "-0.11",
+        "input_lra": "16.80",
+        "input_thresh": "-22.49",
+        "output_i": "-17.32",
+        "output_tp": "-1.50",
+        "output_lra": "13.60",
+        "output_thresh": "-28.07",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.68"
+      }
+    },
+    {
+      "index": 3,
+      "songId": "1GsZQvdgSnaL4J53XdfYwi",
+      "page": "https://www.udio.com/songs/1GsZQvdgSnaL4J53XdfYwi",
+      "title": "Anthem of Triumph",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/e074f7cfbef042a9bac843d9ade87f0e/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-03.mp3",
+      "sha256": "8029306c19b29125dbaf0da0f4edea21eea188da973ea09b7f4b3a4113255a02",
+      "bytes": 3142186,
+      "seconds": 130.858685,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-03.mp3",
+      "sourceSha256": "fd97e1e32a9e45aeedfae420fc3412b8cb2bb5905f47bfb6e8cbc3c5b8f05f3d",
+      "masteringInput": {
+        "input_i": "-11.04",
+        "input_tp": "-0.08",
+        "input_lra": "13.00",
+        "input_thresh": "-21.62",
+        "output_i": "-17.01",
+        "output_tp": "-2.03",
+        "output_lra": "9.60",
+        "output_thresh": "-27.34",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.99"
+      }
+    },
+    {
+      "index": 4,
+      "songId": "t77bXLtSx9uiAXhVPSYrd1",
+      "page": "https://www.udio.com/songs/t77bXLtSx9uiAXhVPSYrd1",
+      "title": "Eternal Echoes",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/eba2be86d0ed4187bc31ed4ee3ed42cf/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-04.mp3",
+      "sha256": "b941ea2de36d69174e839b6caf212c2588ca5802e30e85acb8807ff93a302665",
+      "bytes": 3142186,
+      "seconds": 130.858685,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-04.mp3",
+      "sourceSha256": "a08b1880fecda25d8c17bcad5cccc1927ded51e9037bd8f857e9fd18f8b8a954",
+      "masteringInput": {
+        "input_i": "-10.67",
+        "input_tp": "-0.19",
+        "input_lra": "4.40",
+        "input_thresh": "-20.96",
+        "output_i": "-17.08",
+        "output_tp": "-4.27",
+        "output_lra": "2.60",
+        "output_thresh": "-27.30",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.92"
+      }
+    },
+    {
+      "index": 5,
+      "songId": "jt1g77QDM9x2m45xSzx1VS",
+      "page": "https://www.udio.com/songs/jt1g77QDM9x2m45xSzx1VS",
+      "title": "Cinematic Triumph",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/eba2be86d0ed4187bc31ed4ee3ed42cf/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-05.mp3",
+      "sha256": "dde6e5bc052b43dc9db613c3392bfce124dda75df921e5faae64f3bd1aadd88b",
+      "bytes": 3142186,
+      "seconds": 130.858685,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-05.mp3",
+      "sourceSha256": "a66f5d2642edf7b2f0afebd7d2e2133391f2e121fb0009ddcecfbbf48c15857b",
+      "masteringInput": {
+        "input_i": "-10.91",
+        "input_tp": "-0.11",
+        "input_lra": "6.00",
+        "input_thresh": "-21.14",
+        "output_i": "-16.87",
+        "output_tp": "-1.75",
+        "output_lra": "3.80",
+        "output_thresh": "-27.06",
+        "normalization_type": "dynamic",
+        "target_offset": "-1.13"
+      }
+    },
+    {
+      "index": 6,
+      "songId": "oCwuKR4XLUPf1ymyHHYJWJ",
+      "page": "https://www.udio.com/songs/oCwuKR4XLUPf1ymyHHYJWJ",
+      "title": "Rhapsody in Motion",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/f08e729a0df348a589826df9a98893db/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-06.mp3",
+      "sha256": "5b2e3046ff1783cff3fdae662493118501bf579b534f9ed0bd8d29b351000b8a",
+      "bytes": 3142186,
+      "seconds": 130.858685,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-06.mp3",
+      "sourceSha256": "d42d420ca0ea700532b9ac6bad2aa17f647498f57863cb82835c0602b622ab06",
+      "masteringInput": {
+        "input_i": "-12.12",
+        "input_tp": "-0.42",
+        "input_lra": "9.50",
+        "input_thresh": "-22.45",
+        "output_i": "-17.09",
+        "output_tp": "-2.23",
+        "output_lra": "8.20",
+        "output_thresh": "-27.35",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.91"
+      }
+    },
+    {
+      "index": 7,
+      "songId": "7zUw84pciFR76MTUP5EBvW",
+      "page": "https://www.udio.com/songs/7zUw84pciFR76MTUP5EBvW",
+      "title": "Echoes of Harmony",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/f08e729a0df348a589826df9a98893db/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-07.mp3",
+      "sha256": "eb66ff54c26e1696133a950b1cdf4099dd06b43641c384cedc04555b1a1a7c4f",
+      "bytes": 3142186,
+      "seconds": 130.858685,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-07.mp3",
+      "sourceSha256": "433a48df3ac4e09ebcc047a8c583a78cf6090850b74d11974887c1a7c23db776",
+      "masteringInput": {
+        "input_i": "-11.44",
+        "input_tp": "0.15",
+        "input_lra": "5.70",
+        "input_thresh": "-21.64",
+        "output_i": "-16.51",
+        "output_tp": "-1.50",
+        "output_lra": "2.90",
+        "output_thresh": "-26.61",
+        "normalization_type": "dynamic",
+        "target_offset": "-1.49"
+      }
+    },
+    {
+      "index": 8,
+      "songId": "catXm13jdaMr1mzqkn6Ssr",
+      "page": "https://www.udio.com/songs/catXm13jdaMr1mzqkn6Ssr",
+      "title": "Symphonic Breaks",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/932f2b64ced34b5b9e61086e6b4cca18/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-08.mp3",
+      "sha256": "3018287885549786e53bc8826c799d280db47c37ec40815f6dca490569a32869",
+      "bytes": 3142186,
+      "seconds": 130.858685,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-08.mp3",
+      "sourceSha256": "8718249f86d95b7ca35a2312fd8cd31ba33acaac7e5fb07d337e746cd953e8bf",
+      "masteringInput": {
+        "input_i": "-11.43",
+        "input_tp": "-0.33",
+        "input_lra": "12.70",
+        "input_thresh": "-22.18",
+        "output_i": "-17.18",
+        "output_tp": "-1.50",
+        "output_lra": "5.80",
+        "output_thresh": "-27.45",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.82"
+      }
+    },
+    {
+      "index": 9,
+      "songId": "aDLD6J5RGd6uLPfAProQbn",
+      "page": "https://www.udio.com/songs/aDLD6J5RGd6uLPfAProQbn",
+      "title": "Breaking the Silence",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/932f2b64ced34b5b9e61086e6b4cca18/2/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-09.mp3",
+      "sha256": "a9f2b9fa82bb3042837ba4cf4ce2b346ae39fccb892c0fde1337a51ddde917ec",
+      "bytes": 3142186,
+      "seconds": 130.858685,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-09.mp3",
+      "sourceSha256": "2ecff1c5527126edd56b86bb7d23e9f21844b8f88cbed8a4a500ae4e26d88ff5",
+      "masteringInput": {
+        "input_i": "-11.32",
+        "input_tp": "-0.26",
+        "input_lra": "2.10",
+        "input_thresh": "-21.40",
+        "output_i": "-17.68",
+        "output_tp": "-6.10",
+        "output_lra": "2.00",
+        "output_thresh": "-27.75",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.32"
+      }
+    },
+    {
+      "index": 10,
+      "songId": "attHhyK21AqDQRTRq6Dbxr",
+      "page": "https://www.udio.com/songs/attHhyK21AqDQRTRq6Dbxr",
+      "title": "Static Harmony",
+      "artist": "Ashtro",
+      "prompt": "",
+      "tags": [
+        ""
+      ],
+      "sourceUrl": "https://storage.googleapis.com/udio-artifacts-c33fe3ba-3ffe-471f-92c8-5dfef90b3ea3/samples/b71c51b436c443cbb476f00def971082/1/The%2520Untitled.mp3",
+      "sourceFile": "music/source/udio/track-10.mp3",
+      "sha256": "2c7954a7db2a0baf4fa10d70e3ce5909cb84c98e5ffb070559df7fbe9e90f094",
+      "bytes": 3142186,
+      "seconds": 130.858685,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "file": "/audio/chapters/track-10.mp3",
+      "sourceSha256": "bb616937440acb9368e42a8d3dfdf25b957f364bd986cdff2cf642a1f2b7900e",
+      "masteringInput": {
+        "input_i": "-11.89",
+        "input_tp": "-0.18",
+        "input_lra": "6.80",
+        "input_thresh": "-22.17",
+        "output_i": "-17.49",
+        "output_tp": "-2.78",
+        "output_lra": "7.50",
+        "output_thresh": "-27.70",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.51"
+      }
+    }
+  ]
+}

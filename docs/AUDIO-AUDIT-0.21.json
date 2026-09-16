@@ -1,0 +1,138 @@
+{
+  "method": "ffmpeg decoded 44.1 kHz stereo float samples; sample peaks, not intersample true peaks. Staged recording uses actual Sound mixer, not gameplay or human listening.",
+  "files": [
+    {
+      "file": "public/audio/cues/region-1-entrance.mp3",
+      "seconds": 3.868,
+      "peakDbFS": -2.45,
+      "rmsDbFS": -23.01,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-1-rage.mp3",
+      "seconds": 2.933,
+      "peakDbFS": -6.03,
+      "rmsDbFS": -22.98,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-1-victory.mp3",
+      "seconds": 3.363,
+      "peakDbFS": -2.65,
+      "rmsDbFS": -23.2,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-2-entrance.mp3",
+      "seconds": 3.868,
+      "peakDbFS": -2.38,
+      "rmsDbFS": -22.52,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-2-rage.mp3",
+      "seconds": 2.933,
+      "peakDbFS": -5.87,
+      "rmsDbFS": -22.91,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-2-victory.mp3",
+      "seconds": 3.363,
+      "peakDbFS": -2.92,
+      "rmsDbFS": -22.19,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-3-entrance.mp3",
+      "seconds": 3.868,
+      "peakDbFS": -2.51,
+      "rmsDbFS": -20.94,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-3-rage.mp3",
+      "seconds": 2.933,
+      "peakDbFS": -6.42,
+      "rmsDbFS": -22.58,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-3-victory.mp3",
+      "seconds": 3.363,
+      "peakDbFS": -2.32,
+      "rmsDbFS": -20.96,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-4-entrance.mp3",
+      "seconds": 3.868,
+      "peakDbFS": -2.41,
+      "rmsDbFS": -22.76,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-4-rage.mp3",
+      "seconds": 2.933,
+      "peakDbFS": -6.07,
+      "rmsDbFS": -23.15,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-4-victory.mp3",
+      "seconds": 3.363,
+      "peakDbFS": -2.56,
+      "rmsDbFS": -22.79,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-5-entrance.mp3",
+      "seconds": 3.868,
+      "peakDbFS": -2.22,
+      "rmsDbFS": -20.9,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-5-rage.mp3",
+      "seconds": 2.933,
+      "peakDbFS": -6.17,
+      "rmsDbFS": -22.56,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-5-victory.mp3",
+      "seconds": 3.363,
+      "peakDbFS": -2.42,
+      "rmsDbFS": -20.99,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-6-entrance.mp3",
+      "seconds": 3.868,
+      "peakDbFS": -2.07,
+      "rmsDbFS": -23.09,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-6-rage.mp3",
+      "seconds": 2.933,
+      "peakDbFS": -5.99,
+      "rmsDbFS": -22.95,
+      "clippedSamples": 0
+    },
+    {
+      "file": "public/audio/cues/region-6-victory.mp3",
+      "seconds": 3.363,
+      "peakDbFS": -2.63,
+      "rmsDbFS": -22.82,
+      "clippedSamples": 0
+    },
+    {
+      "file": "artifacts/audio-review-0.21.mp3",
+      "seconds": 14.16,
+      "peakDbFS": -3.24,
+      "rmsDbFS": -24.59,
+      "clippedSamples": 0
+    }
+  ]
+}

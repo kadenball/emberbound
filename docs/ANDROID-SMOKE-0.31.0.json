@@ -1,0 +1,142 @@
+{
+  "version": "0.31.0",
+  "serial": "emulator-5554",
+  "checks": [
+    "Bundled native app launches in landscape",
+    "Menu transport starts on native cold launch before any tap",
+    "All three packaged hero sheets decode offline with transparency",
+    "Three attack sheets and both eight-species enemy atlases decode offline",
+    "All ten selected Udio recordings are bundled offline with matching hashes",
+    "Menu audio transport advances after a gesture",
+    "Hero and sound choice reach Android SharedPreferences",
+    "Offline packaged battle accepts Jump and Power touches",
+    "Android Back pauses combat",
+    "Home/foreground preserves the pause and stops chapter transport",
+    "Native process death preserves the complete saved profile and adventure bookmark",
+    "Continue resumes the saved hero and grants no duplicate banked rewards"
+  ],
+  "errors": [],
+  "platform": {
+    "platform": "android",
+    "url": "https://localhost/",
+    "width": 866,
+    "height": 412,
+    "dpr": 2.625,
+    "ua": "Mozilla/5.0 (Linux; Android 16; sdk_gphone64_x86_64 Build/BE2A.250530.026.F3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36"
+  },
+  "startupMusicPreference": true,
+  "heroAssets": [
+    {
+      "hero": "ash",
+      "width": 1536,
+      "height": 1024,
+      "cornerAlpha": 0,
+      "coverage": 0.32889556884765625
+    },
+    {
+      "hero": "wren",
+      "width": 1536,
+      "height": 1024,
+      "cornerAlpha": 1,
+      "coverage": 0.22744115193684897
+    },
+    {
+      "hero": "bram",
+      "width": 1536,
+      "height": 1024,
+      "cornerAlpha": 0,
+      "coverage": 0.31409581502278644
+    }
+  ],
+  "attackAssets": [
+    {
+      "name": "ash-attacks",
+      "width": 1536,
+      "height": 1024,
+      "alpha": 0
+    },
+    {
+      "name": "wren-attacks",
+      "width": 1536,
+      "height": 1024,
+      "alpha": 0
+    },
+    {
+      "name": "bram-attacks",
+      "width": 1536,
+      "height": 1024,
+      "alpha": 0
+    },
+    {
+      "name": "enemies-melee",
+      "width": 1254,
+      "height": 1254,
+      "alpha": 0
+    },
+    {
+      "name": "enemies-ranged",
+      "width": 1254,
+      "height": 1254,
+      "alpha": 0
+    }
+  ],
+  "musicAssets": [
+    {
+      "title": "Battle Awaits",
+      "hash": "7d4b55a001a4f062b1d6d6dce610ff137a9083d2d037a2e9411bf69bf3f42457",
+      "expected": "7d4b55a001a4f062b1d6d6dce610ff137a9083d2d037a2e9411bf69bf3f42457"
+    },
+    {
+      "title": "Triumphant Echoes",
+      "hash": "e8d0e634ccb4c0e7bb72821e77f6fac64e53eeac72aad21652a3081c0225b1af",
+      "expected": "e8d0e634ccb4c0e7bb72821e77f6fac64e53eeac72aad21652a3081c0225b1af"
+    },
+    {
+      "title": "Anthem of Triumph",
+      "hash": "8029306c19b29125dbaf0da0f4edea21eea188da973ea09b7f4b3a4113255a02",
+      "expected": "8029306c19b29125dbaf0da0f4edea21eea188da973ea09b7f4b3a4113255a02"
+    },
+    {
+      "title": "Eternal Echoes",
+      "hash": "b941ea2de36d69174e839b6caf212c2588ca5802e30e85acb8807ff93a302665",
+      "expected": "b941ea2de36d69174e839b6caf212c2588ca5802e30e85acb8807ff93a302665"
+    },
+    {
+      "title": "Cinematic Triumph",
+      "hash": "dde6e5bc052b43dc9db613c3392bfce124dda75df921e5faae64f3bd1aadd88b",
+      "expected": "dde6e5bc052b43dc9db613c3392bfce124dda75df921e5faae64f3bd1aadd88b"
+    },
+    {
+      "title": "Rhapsody in Motion",
+      "hash": "5b2e3046ff1783cff3fdae662493118501bf579b534f9ed0bd8d29b351000b8a",
+      "expected": "5b2e3046ff1783cff3fdae662493118501bf579b534f9ed0bd8d29b351000b8a"
+    },
+    {
+      "title": "Echoes of Harmony",
+      "hash": "eb66ff54c26e1696133a950b1cdf4099dd06b43641c384cedc04555b1a1a7c4f",
+      "expected": "eb66ff54c26e1696133a950b1cdf4099dd06b43641c384cedc04555b1a1a7c4f"
+    },
+    {
+      "title": "Symphonic Breaks",
+      "hash": "3018287885549786e53bc8826c799d280db47c37ec40815f6dca490569a32869",
+      "expected": "3018287885549786e53bc8826c799d280db47c37ec40815f6dca490569a32869"
+    },
+    {
+      "title": "Breaking the Silence",
+      "hash": "a9f2b9fa82bb3042837ba4cf4ce2b346ae39fccb892c0fde1337a51ddde917ec",
+      "expected": "a9f2b9fa82bb3042837ba4cf4ce2b346ae39fccb892c0fde1337a51ddde917ec"
+    },
+    {
+      "title": "Static Harmony",
+      "hash": "2c7954a7db2a0baf4fa10d70e3ce5909cb84c98e5ffb070559df7fbe9e90f094",
+      "expected": "2c7954a7db2a0baf4fa10d70e3ce5909cb84c98e5ffb070559df7fbe9e90f094"
+    }
+  ],
+  "saved": {
+    "hero": "frost",
+    "xp": 0,
+    "gold": 0,
+    "stage": 0
+  },
+  "status": "passed"
+}

@@ -1,0 +1,11 @@
+export type BossMomentKind = 'entrance' | 'rage' | 'defeat';
+export interface BossMoment { kind: BossMomentKind; boss: number; region: number; clock: number; duration: number; x: number; y: number }
+export const BOSS_PERFORMANCES = [
+ {title:'Sir Burps-a-Lot',subtitle:'A kettle with a drinking problem.',entrance:'The lid is rattling. That is not tea.',rage:'THE LID HAS LEFT THE CONVERSATION',breakdown:'Boiling point reached. Basic manners cancelled.',defeat:'DECaffeinated. DEFEATED.',exit:'One last burp. The crown tooth was the mint all along.'},
+ {title:'The Abominable Doughman',subtitle:'Expired. Still rising.',entrance:'Three hundred years of yeast. Zero personal growth.',rage:'PROOF OF A SERIOUS PROBLEM',breakdown:'The crust splits. Something in there wants another helping.',defeat:'DOUGH NOT RESUSCITATE',exit:'The world’s angriest loaf has become six disappointing rolls.'},
+ {title:'Madame Spin-Cycle',subtitle:'Your delicates are her hostages.',entrance:'The warranty screams before the machine does.',rage:'UNBALANCED LOAD. UNBALANCED WOMAN.',breakdown:'The safety interlock has filed for divorce.',defeat:'OUT OF DISORDER',exit:'She ejects one sock. It has the crown tooth and a very bad smell.'},
+ {title:'Count Snackula',subtitle:'Your dentist’s retirement plan.',entrance:'Wafer body armor. Brilliant. Shame he left his head sticking out.',rage:'THE ICING IS A LIE',breakdown:'The frosting melts. The cake underneath has teeth too.',defeat:'JUST DESSERTS',exit:'A dignified vampire exit. Except for the puddle of frosting.'},
+ {title:'Forklift Frank',subtitle:'Not certified. Extremely committed.',entrance:'Bulletproof at the front. At the back: one very uninsured engine gland.',rage:'OVERTIME IS MANDATORY',breakdown:'The engine catches fire. Frank calls this a productivity bonus.',defeat:'PERMANENTLY CLOCKED OUT',exit:'The wheels leave first. Frank is still waiting for his break.'},
+ {title:'His Royal Toothiness',subtitle:'An entire government in a bin bag.',entrance:'The crown arrives. Unfortunately, the king is attached.',rage:'EXECUTIVE MELTDOWN',breakdown:'The tax receipts rip. Beneath them: more unpaid bills.',defeat:'YOUR COMPLAINT HAS BEEN UPHELD',exit:'The crown bounces away. His Majesty folds into a refund envelope.'}
+] as const;
+export const BOSS_SOUNDS = ['kettle','dough','drum','sugar','forklift','royal'] as const;

@@ -1,0 +1,35 @@
+{
+  "mode": "built-in imagegen",
+  "assets": [
+    {
+      "file": "public/characters/ash-attacks.png",
+      "original": "$HOME/.codex/generated_images/01a07d2a-0afc-7f21-bad4-f958bb53a2aa/exec-c99d6f7c-1f3b-4953-98a5-49fc9966f9bf.png",
+      "sha256": "6f38f79137f478df2780bbb273f612066135e81a4a6f3f221e5c49c5aa3c5908",
+      "bytes": 2301505
+    },
+    {
+      "file": "public/characters/wren-attacks.png",
+      "original": "$HOME/.codex/generated_images/01a07d2a-0afc-7f21-bad4-f958bb53a2aa/exec-67a01ebf-99a0-4f27-bd09-4851af04ec9e.png",
+      "sha256": "cefe155743e75936c2e667c59c05518874277028474f953a9079a31737ce75aa",
+      "bytes": 2358353
+    },
+    {
+      "file": "public/characters/bram-attacks.png",
+      "original": "$HOME/.codex/generated_images/01a07d2a-0afc-7f21-bad4-f958bb53a2aa/exec-281d2dfe-7347-4581-91fe-8fe82301a346.png",
+      "sha256": "0bacc787bdb833d135365cc49dda2d70d257c8c797b3580f759d15fb87a0675f",
+      "bytes": 2285375
+    },
+    {
+      "file": "public/characters/enemies-melee.png",
+      "original": "$HOME/.codex/generated_images/01a07d2a-0afc-7f21-bad4-f958bb53a2aa/exec-5475c99d-881e-4708-b2db-748793f92657.png",
+      "sha256": "4b5d9bf0a6717509b68dc450d5855acf62a2354ed9b40b5cba88b1d3547e2125",
+      "bytes": 2203076
+    },
+    {
+      "file": "public/characters/enemies-ranged.png",
+      "original": "$HOME/.codex/generated_images/01a07d2a-0afc-7f21-bad4-f958bb53a2aa/exec-39ae9950-7bc4-4b9f-93d0-ee9d1af12bd4.png",
+      "sha256": "c912ea07c8cb93f757c757191581fc7c79819629830bbc8f39caa3211b45fdbb",
+      "bytes": 2019788
+    }
+  ]
+}

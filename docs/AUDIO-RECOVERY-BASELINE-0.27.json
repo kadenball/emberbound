@@ -1,0 +1,95 @@
+{
+  "note": "Controlled recovery regressions, not reproductions of the earlier intermittent startup silence. First fixture exposes interrupted through a getter on a truly suspended browser context. Second suspends the real live-game context through the Web Audio API.",
+  "failures": [
+    "No resume call on the interrupted state",
+    "No pause UI after unexpected live-game audio suspension"
+  ],
+  "states": [
+    {
+      "visibility": "visible",
+      "focused": true,
+      "context": {
+        "state": "interrupted",
+        "time": 0.032,
+        "sampleRate": 48000
+      },
+      "pending": 0,
+      "unlocked": true,
+      "paused": true,
+      "gains": [
+        0.2199999988079071,
+        1,
+        0.44999998807907104,
+        0.6600000262260437
+      ],
+      "tracks": [
+        {
+          "id": "menu-music",
+          "time": 0.032,
+          "paused": true,
+          "ready": 4,
+          "network": 1,
+          "duration": 130.858667,
+          "src": "/audio/menu-theme.mp3"
+        },
+        {
+          "id": "chapter-music",
+          "time": 0,
+          "paused": true,
+          "ready": 0,
+          "network": 0,
+          "duration": null,
+          "src": null
+        },
+        {
+          "id": "score-cue",
+          "time": 0,
+          "paused": true,
+          "ready": 0,
+          "network": 0,
+          "duration": null,
+          "src": null
+        }
+      ]
+    },
+    {
+      "visibility": "visible",
+      "focused": true,
+      "gains": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "tracks": [
+        {
+          "id": "menu-music",
+          "time": 0.181333,
+          "paused": true,
+          "ready": 4,
+          "network": 1,
+          "duration": 130.858667,
+          "src": "/audio/menu-theme.mp3"
+        },
+        {
+          "id": "chapter-music",
+          "time": 0.066757,
+          "paused": false,
+          "ready": 4,
+          "network": 1,
+          "duration": 61.935488,
+          "src": "/audio/chapters/chapter-01.mp3"
+        },
+        {
+          "id": "score-cue",
+          "time": 0,
+          "paused": true,
+          "ready": 0,
+          "network": 0,
+          "duration": null,
+          "src": null
+        }
+      ]
+    }
+  ]
+}

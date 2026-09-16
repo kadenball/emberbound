@@ -1,0 +1,13 @@
+# Local validation — 0.11.0, 2026-09-08
+
+- **121 simulation tests passed** in 13 files. Seven new sabotage tests cover distinct regional encounter sequences, reachable controls, Heavy versus light input, body-triggered activation, one-time rewards, full warning windows, height/lane responses, damage to both teams, regional death advice, inactive encounters and real checkpoint restoration.
+- Existing twelve-chapter earned-progression campaigns pass for all nine hero/style combinations, along with local co-op and reward/retry regressions. Simulation completion does not establish human enjoyment or balance.
+- **64 browser checks passed**, eight inapplicable combinations skipped, across desktop Chromium, Android-sized Chromium and iPhone-sized WebKit. The new sabotage integration flow reaches the actual encounter with normal simulation inputs, captures ready/warning/disaster/wreck states and continues into the next encounter. Its driver accelerates fixed simulation steps and holds milestones; it does not edit HP, positions or waves. It is not human real-time gameplay.
+- The iPhone-sized disaster capture and staged laundry/junkyard artwork were visually inspected. Eighteen regional art fixtures use production rendering and collision geometry at explicitly staged positions. No page errors were recorded. Capture paths and reproduction are described in `UPDATE-0.11.md`.
+- Existing audio, story, save, control, co-op, boss and defeat/retry browser checks passed. New machinery warning/break cues and regional sound events are implemented; human listening and mix review remain outstanding.
+- Strict TypeScript, production Vite build and Capacitor Android/iOS sync passed.
+- Android `assembleDebug bundleRelease lintRelease` passed, version **0.11.0/code 11**. The debug APK is installable; the release AAB is unsigned. The existing dependency lint baseline remains.
+- Xcode project syntax and two iOS plists parse. Native iOS build/signing has not been verified on this Linux host.
+- `scripts/package.py` verifies every bundled web/audio asset in both native packages against the current production build, then packages the source and writes checksums.
+
+The full quality target remains open. Six journeys now have different encounter sequences and player-caused workplace disasters, but their travel spacing still shares a scaffold. Human playtesting must judge whether those interactions are funny and satisfying, rather than cleanup chores. Final-ending UI coverage, human music review, physical-device performance/lifecycle checks and native iOS release work remain outstanding. See [the open target](QUALITY-TARGET.md), [0.11 changes](UPDATE-0.11.md), [playtest kit](PLAYTEST.md) and [prior validation](VALIDATION-0.10.md).

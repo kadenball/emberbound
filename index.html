@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
+    <meta name="theme-color" content="#102422" />
+    <meta name="description" content="Crooked teeth. Faster brawls. An original plush-monster adventure with jumping, elemental burps, and a kingdom held together by tape." />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <title>Emberbound — The Hollow Crown</title>
+  </head>
+  <body>
+    <canvas id="game" aria-label="Emberbound game world"></canvas>
+    <main id="ui"></main>
+    <div id="touch" hidden>
+      <div id="stick" aria-label="Movement joystick"><div id="thumb"></div></div>
+      <div class="action-buttons">
+        <button id="jump" aria-label="Jump"><span>↑</span><small>JUMP</small></button>
+        <button id="dodge" aria-label="Dodge"><span>↝</span><small>DODGE</small></button>
+        <button id="magic" aria-label="Use power or meltdown"><span>✦</span><small>POWER</small></button>
+        <button id="heavy" aria-label="Heavy attack"><span>✹</span><small>HEAVY</small></button>
+        <button id="attack" aria-label="Attack"><span>⚔</span><small>LIGHT</small></button>
+      </div>
+    </div>
+    <div id="toast" role="status"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
